@@ -24,6 +24,6 @@
 				</div>
 			</li>
 		</ul>
-        <h6><a href="https://fullborelabs.com/wp/git-scripts/raspberry-pi-case/details-scrape.cgi" target="_blank" class="scrapeLink">scrape</a></h6>		
+        <h6><a href="https://fullborelabs.com/wp/git-scripts/raspberry-pi-case/files-scrape.cgi" target="_blank" class="scrapeLink">scrape</a></h6>		
 	</div>
 </div>
