@@ -7,8 +7,6 @@
 					Raspberry Pi Case - Top 
 				</div> 
 				<div class="divLinkR">
-					<a href="https://github.com/fullborelabs/raspberry-pi-case/blob/main/pi-case-lid.stl" target="_blank" class="green">STL</a>
-					<a href="https://github.com/fullborelabs/raspberry-pi-case/blob/main/pi-case-lid.stl" target="_blank" class="red">STL</a>
 				</div>
 			</div>
 		</li>
@@ -18,8 +16,6 @@
 					Raspberry Pi Case - Bottom 
 				</div> 
 				<div class="divLinkR"> 
-					<a href="https://github.com/fullborelabs/raspberry-pi-case/blob/main/pi-case-lid.stl" target="_blank" class="magenta">STL</a>
-					<a href="https://github.com/fullborelabs/raspberry-pi-case/blob/main/pi-case-lid.stl" target="_blank" class="orange">STL</a>
 				</div>
 			</div>
 		</li>
