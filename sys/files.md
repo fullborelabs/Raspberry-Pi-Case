@@ -1,10 +1,9 @@
-<h2>TEST</h2>
 <div>
 	<ul class="filelist">
 		<li>
 			<div class="divLinkWrapper">
 				<div class="divLinkL" onclick="window.open('https://github.com/fullborelabs/raspberry-pi-case','mywindow');" style="cursor: pointer;">
-					Raspberry Pi Case - Top 
+					Raspberry Pi Case - Top
 				</div> 
 				<div class="divLinkR">
 					<a href="https://github.com/fullborelabs/raspberry-pi-case/blob/main/pi-case-lid.stl" target="_blank" class="green">STL</a>
@@ -15,7 +14,7 @@
 		<li>
 			<div class="divLinkWrapper">
 				<div class="divLinkL" onclick="window.open('https://github.com/fullborelabs/raspberry-pi-case','mywindow');" style="cursor: pointer;">
-					Raspberry Pi Case - Bottom 
+					Raspberry Pi Case - Bottom
 				</div> 
 				<div class="divLinkR"> 
 					<a href="https://github.com/fullborelabs/raspberry-pi-case/blob/main/pi-case-lid.stl" target="_blank" class="magenta">STL</a>
