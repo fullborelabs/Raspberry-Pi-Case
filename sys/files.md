@@ -1,4 +1,4 @@
-<div>
+<div class="filesDiv">
 	<ul class="filelist">
 		<li>
 			<div class="divLinkWrapper">
