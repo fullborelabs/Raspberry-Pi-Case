@@ -24,11 +24,7 @@
 				</div>
 			</li>
 		</ul>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
+		<p>&nbsp;</p>
         	<h6><a href="https://fullborelabs.com/wp/git-scripts/raspberry-pi-case/files-scrape.cgi" target="_blank" class="scrapeLink">scrape</a></h6>
 	</div>
 </div>
