@@ -24,7 +24,8 @@
 				</div>
 			</li>
 		</ul>
-		<p>&nbsp;</p>
+		<div class="blankSpace" style="height:40px;">
+		</div>
         	<h6><a href="https://fullborelabs.com/wp/git-scripts/raspberry-pi-case/files-scrape.cgi" target="_blank" class="scrapeLink">scrape</a></h6>
 	</div>
 </div>
