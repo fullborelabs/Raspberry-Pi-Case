@@ -1,7 +1,7 @@
 <div class="gitDiv">
 	<div class="filesDiv">
-		<h2>Files</h2>
 		<ul class="filelist">
+			<h2>Files</h2>
 			<li>
 				<div class="divLinkWrapper">
 					<div class="divLinkL" onclick="window.open('https://github.com/fullborelabs/raspberry-pi-case/blob/main/pi-case-top.stl','mywindow');" style="cursor: pointer;">
