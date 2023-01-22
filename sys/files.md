@@ -1,5 +1,6 @@
 <div class="gitDiv">
 	<div class="filesDiv">
+		<h2>Files</h2>
 		<ul class="filelist">
 			<li>
 				<div class="divLinkWrapper">
